@@ -1,0 +1,67 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "d92b41268e551efddf36a06c38211ad8",
+    "packages": [
+        {
+            "name": "rfreebern/giphy-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/rfreebern/giphy-php.git",
+                "reference": "521799c0662f4ff3d285a787b0724a27cdd957e3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/rfreebern/giphy-php/zipball/521799c0662f4ff3d285a787b0724a27cdd957e3",
+                "reference": "521799c0662f4ff3d285a787b0724a27cdd957e3",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "rfreebern": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "CC0"
+            ],
+            "authors": [
+                {
+                    "name": "Ryan Freebern",
+                    "email": "ryan@freebern.org",
+                    "homepage": "http://rnf.me",
+                    "role": "Developer"
+                }
+            ],
+            "description": "A library implementing access to the Giphy API.",
+            "keywords": [
+                "gif",
+                "gifs",
+                "giphy",
+                "images",
+                "search"
+            ],
+            "time": "2014-01-19 21:16:50"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
